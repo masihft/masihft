@@ -21,6 +21,18 @@ comedian
 
 → **[github.com/masihft/terminal-comedy-studio](https://github.com/masihft/terminal-comedy-studio)**
 
+### 🇮🇷 [iran-ready](https://github.com/masihft/iran-ready)
+
+Find the parts of your project that don't work from Iran, and switch to local or self-hosted alternatives.
+
+A zero-dependency scanner (and soon a Claude Code plugin) that flags blocked or sanctioned services like Google Fonts, reCAPTCHA, Firebase, Stripe and Docker Hub. It suggests replacements such as self-hosted Vazirmatn, Neshan maps, Zarinpal, ArvanCloud and Liara. It works in CI too: the exit code is 1 when something blocked is found.
+
+```bash
+npx github:masihft/iran-ready scan
+```
+
+→ **[github.com/masihft/iran-ready](https://github.com/masihft/iran-ready)**
+
 ## 🧠 Interested In
 
 - AI Agents
@@ -31,7 +43,7 @@ comedian
 
 ## 🛠️ Currently Exploring
 
-`Python` · `AI` · `LLMs` · `Agents` · `Git` · `Linux`
+`Python` · `Node.js` · `AI` · `LLMs` · `Agents` · `Claude Code` · `Git` · `Linux`
 
 ---
 
